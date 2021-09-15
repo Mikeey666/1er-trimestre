@@ -6,4 +6,4 @@ Aquí están los apuntes sobre arquitectura de ordenadores
 
 La información digital es aquella que se puede expresar en 0 y 1, es decir, en código binario. Si se parte desde una base análogica, como una fotografía, hay que digitalizarla primero antes de introducirla en el ordenador.
 
-![kkkk](Captura de pantalla de 2021-09-15 14-03-27.png)
+![kkkk](https://raw.githubusercontent.com/Mikeey666/1er-trimestre/main/Captura%20de%20pantalla%20de%202021-09-15%2014-03-27.png)
