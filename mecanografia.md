@@ -4,7 +4,6 @@
 
 ### 15 SEPTIEMBRE
 
-![a](/home/auxiliarinformatica/Imágenes/Captura de pantalla de 2021-09-15 11-55-48.png)
+![captura 1](/home/auxiliarinformatica/Imágenes/Captura de pantalla de 2021-09-15 11-55-48.png)
 
-![b](/home/auxiliarinformatica/Imágenes/Captura de pantalla de 2021-09-15 12-07-00.png)
-
+![captura 2](/home/auxiliarinformatica/Imágenes/Captura de pantalla de 2021-09-15 12-07-00.png)
