@@ -125,3 +125,23 @@ Los puertos más habituales que estaremos utilizando son:
 · 443 - https
 
 Son puertos de, lo que se llama, hipertexto.
+
+### Ejercicio: 
+
+El disco duro escogido es: Kioxia EXCERIA 480GB SSD SATA 
+
+![link de compra](https://www.pccomponentes.com/kioxia-exceria-480gb-ssd-sata)
+
+![pdf con información](https://personal.kioxia.com/content/dam/kioxia/emea/es-es/personal/dl/KIOXIA_Exceria_SATA_Product_Brief_Ver04.21_EMEA_ES.pdf)
+
+· Capacidad: 480GB
+
+· Precio: 42,99 euros
+
+· Interfaz:  SATA 6Gb / s
+
+· Tamaño del búfer:
+
+· Velocidad de giro (si procede):
+
+· Tipo: ¿Magnetico o de estado sólido? - Unidad de estado sólido (SSD)
