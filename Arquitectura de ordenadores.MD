@@ -55,7 +55,7 @@ Una tarjeta gráfica es lo que convierte las señales que recibe en imagenes. En
 
 La tarjeta que he escogido es Gigabyte GeForce GT 1030 Low Profile D4 2GB GDDR4, en PC componentes: 
 
-!(link de la tarjeta)[https://www.pccomponentes.com/gigabyte-geforce-gt-1030-low-profile-d4-2gb-gddr4]
+![link de la tarjeta](https://www.pccomponentes.com/gigabyte-geforce-gt-1030-low-profile-d4-2gb-gddr4)
 
 - Procesador:
 
