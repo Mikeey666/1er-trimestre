@@ -145,3 +145,9 @@ El disco duro escogido es: Kioxia EXCERIA 480GB SSD SATA
 · Velocidad de giro (si procede):No tiene
 
 · Tipo: ¿Magnetico o de estado sólido? - Unidad de estado sólido (SSD)
+
+### Reflexión sobre precios
+
+¿40 euros? ¿80? ¿300? ¿Me merece la pena comprar un disco duro de 300 euros?
+
+Creo que en comparativa no necesito las características que ofrecen los discos duros de mayor precio, así que realmente se podría considerar una pérdida de dinero. Más que en el precio o las características hay que valorar primero cuales son las necesidades que tenemos, y en base a eso escoger el disco duro más acorde a nuestras necesidades. Si bien los discos duros de mayor precio pueden tener mejores caracteristicas, mientras el disco duro de menor precio cumpla con mis necesidades, ya está más que bien.
