@@ -87,3 +87,41 @@ Un disco duro es
 Tengo un disco duro magnetico de 100GB. ¿Cuantos sectores tiene si cada sector es de 512 bytes?
 
 100GB= 102.400 mg= 104.857.600kb= 107.374.182.400 bytes=
+
+## INTERNET Y REDES
+
+### Redes locales: Lan
+
+Lan: Local Area Network (red de área local)
+
+Protocolo - TCP/IP
+
+A cada ordenador se le asigna una IP, que es un identificador. Una IP son 4bytes. EJ: 246.3.38.233
+
+El switch sirve para conectar varios cables de red e ir decidiendo quien se conecta a cada momento.
+
+DHCP - Asignar de forma automatica las IPs de los ordenadores conectados
+
+Ejemplo de ruta: 255.255.0.203/fotos bonitas/IMG8066.JPG
+
+ISP: Internet Service Provider
+
+DNS: Domain Name Server
+
+Ataque DDOS: Pedir *a la vez* demasiadas cosas a un mismo servidor
+
+Stream: arroyo de datos
+
+TCP/IP: 
+
+IOT: Internet Of Things
+
+Puertos: Puertas (abiertas o cerradas)
+
+Los puertos más habituales que estaremos utilizando son:
+
+· 80 - http
+
+· 443 - https
+
+Son puertos de, lo que se llama, hipertexto.
