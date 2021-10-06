@@ -6,3 +6,4 @@ El ejemplo que estamos utilizando para empezar es "Blink", consiste en apagar y 
 
 En la primera prueba, nos hemos dado cuenta de que el arduino no funciona. 
 
+!(https://raw.githubusercontent.com/Mikeey666/1er-trimestre/main/Captura%20de%20pantalla%20de%202021-10-06%2012-10-26.png)
