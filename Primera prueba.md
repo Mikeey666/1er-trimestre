@@ -92,7 +92,7 @@ COMENTARIOS:
 - Si son de una línea, escribimos //
 - Si son de más de una línea escribimos /*
 
-## CÓDIGO MORSE
+## Código morse
   
 **Primera prueba código morse**
 
@@ -119,5 +119,3 @@ COMENTARIOS:
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
   delay(200);  
   ```
-  
-  
