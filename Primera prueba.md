@@ -80,3 +80,11 @@ I = V/R
 
 5V/0 Ohm = Infinito A --> Cortocircuito (evitar)
 
+## Primera programación
+
+Dos funciones:
+
+- Setup (){   --> Se ejecuta al principio una sola vez.
+- Loop (){    --> Se ejecuta después y se repite indefinidamente.
+
+
