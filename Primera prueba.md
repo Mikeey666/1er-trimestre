@@ -87,4 +87,7 @@ Dos funciones:
 - Setup (){   --> Se ejecuta al principio una sola vez.
 - Loop (){    --> Se ejecuta después y se repite indefinidamente.
 
+COMENTARIOS:
 
+- Si son de una línea, escribimos //
+- Si son de más de una línea escribimos
