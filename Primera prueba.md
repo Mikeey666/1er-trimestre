@@ -18,6 +18,10 @@ Debido al error en la primera prueba del Arduino, ahora vamos a revisar componen
 
 ![b](https://github.com/Mikeey666/1er-trimestre/blob/main/Captura%20de%20pantalla%20de%202021-10-13%2010-56-14.png?raw=true)
 
+**Circuito en serie:**
+
+![c](https://github.com/Mikeey666/1er-trimestre/blob/main/Captura%20de%20pantalla%20de%202021-10-13%2010-59-57.png?raw=true)
+
 
 # Cricuitos electricos
 
