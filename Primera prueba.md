@@ -119,3 +119,10 @@ COMENTARIOS:
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
   delay(200);  
   ```
+La tercera prueba del código morse era formar nuestro nombre utilizando puntos y rayas, simulados por los parpadeos de la luz del arduino. Hemos tenido que programar el tiempo de duración de los puntos y rayas, junto con el orden que llevarían para formar las letras. 
+
+Durante la subida del código, cometí un error al utilizar de forma repetida los *void*, pero pude arreglarlo gracias a las indicaciones del profesor, cambiando los void por 'punto();' y 'rayas();'
+
+## Morse y las funciones
+
+![Mi nombre en morse](https://github.com/Mikeey666/ARDUINO/blob/main/MORSE_3_-_SARAY.ino)
