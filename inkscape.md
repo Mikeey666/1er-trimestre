@@ -119,4 +119,4 @@ Después de importar el león, vamos a ajustar el lienzo. Para ello vamos a prop
 
 **Segunda prueba del león**
 
-![leon2]()
+![leon2](https://raw.githubusercontent.com/Mikeey666/1er-trimestre/fc7096470449552af0e947d4297178f650a4989f/leon2.svg)
