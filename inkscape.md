@@ -22,11 +22,8 @@ Las líneas horizontales suelen ser 240p, 480p, 320p, 1080p, 2k y 4k.
 Sistemas para detallar los colores:
 
 - RGB (Red - Green - Blue) para pantallas.
-
 - CMYK (Cyan - Magenta - Yellow - BLack) para imprimir.
-
 - Colores indexados
-
 - Canal (como los 3 canales de RGB) de transparencia. Este canal se llama canal alfa. Los PNG pueden tenerlo. Los GIF y los JPG no.
 
 **FORMATOS COMUNES**
@@ -44,7 +41,6 @@ Sistemas para detallar los colores:
 ![l](https://www.pngkey.com/png/full/255-2559405_-color-azul-acuarela-png.png)
 
 - TIFF : Sin complementos
-
 - Otros particulares: PSD
 
 # Imagenes vectoriales
@@ -54,13 +50,11 @@ Se define como un conjunto de formas (lineas, puntos, etc). Cada una de estas fo
 · **Formatos:**
 
 - SVG (Scalable Vector Graphic)
-
 - EPS
 
 · **Especificos:**
 
 - DWG 
-
 - DXF
 
 · **Formato mezcla:**
