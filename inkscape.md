@@ -78,4 +78,9 @@ Vamos a tomar la imagen del cuadro del león de Rosa Bonheur. Esta es la imagen 
 [Fuente - Museo del prado](https://www.museodelprado.es/coleccion/obra-de-arte/el-cid/19984271-9cb6-476d-8655-f012e1fec1bf)
 
 1. Abrimos INKSCAPE
-2. gfgh
+2. Archivo --> Propiedades del documento --> Tamaño personalizado --> Unidades en PX (Píxeles) --> 600 ancho - 1000 alto
+3. Cerramos la pestaña
+4. Añadimos la imagen de internet
+- Archivo --> Importar
+- Arrastrar la imagen
+- Copiar y pegar
