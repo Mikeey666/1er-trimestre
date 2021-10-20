@@ -46,3 +46,23 @@ Sistemas para detallar los colores:
 - TIFF : Sin complementos
 
 - Otros particulares: PSD
+
+# Imagenes vectoriales
+
+Se define como un conjunto de formas (lineas, puntos, etc). Cada una de estas formas está definida mátematicamente
+
+· **Formatos:
+
+- SVG (Scalable Vector Graphic)
+
+- EPS
+
+· **Especificos:
+
+- DWG 
+
+- DXF
+
+· **Formato mezcla: 
+
+- PDF (Portable Document Format)
