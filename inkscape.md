@@ -98,3 +98,19 @@ Existen varias opciones. Lo primero es decidir si el programa hará una o varias
 - Corte de luminosidad: Junta todos los píxeles más oscuros que umbral.
 - Detección de bordes: Revisa el contraste entre píxeles.
 - Cuantización de colores: Agrupa zonas similares. 
+
+2. Varias pasadas
+
+Nos permite hacer una imagen vectorial más comlpeja, con varios grises o colores. Esto necesita más capacidad de proceso.
+
+**Leon 1**
+
+Después de importar el león, vamos a ajustar el lienzo. Para ello vamos a propiedades de documento y en tamaño vamos a ajustar pagina o contenido. Seleccionamos la imagen y pulsamos el botón "Ajustar página a contenido o selección"
+
+**Vectorizamos el león con las siguientes características:**
+
+· Múltiples pasadas - Colores - 8 pasadas
+
+- Borramos el ráster
+- Guardamos como león1.svg
+- Subimos al github
