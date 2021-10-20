@@ -87,4 +87,4 @@ Vamos a tomar la imagen del cuadro del león de Rosa Bonheur. Esta es la imagen 
 5. Click derecho en la imagen 
 6. Vectorizar mapa de bits
 
-![khjk]()
+![khjk](https://github.com/Mikeey666/1er-trimestre/blob/main/Captura%20de%20pantalla%20de%202021-10-20%2012-47-33.png?raw=true)
