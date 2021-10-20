@@ -37,7 +37,7 @@ Sistemas para detallar los colores:
 
 - GIF : Colores indexados. Se puede animar
 
-![k](https://lanetaneta.com/wp-content/uploads/2019/10/El-GIF-est%C3%A1-muerto.-Larga-vida-al-GIF.gif)
+![k](https://gifburg.com/images/gifs/loading/gifs/0002.gif)
 
 - PNG : No tiene gran compresión
 
