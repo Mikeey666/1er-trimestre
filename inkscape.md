@@ -88,3 +88,13 @@ Vamos a tomar la imagen del cuadro del león de Rosa Bonheur. Esta es la imagen 
 6. Vectorizar mapa de bits
 
 ![khjk](https://github.com/Mikeey666/1er-trimestre/blob/main/Captura%20de%20pantalla%20de%202021-10-20%2012-47-33.png?raw=true)
+
+**Explicación del cuadro de vectorizar**
+
+Existen varias opciones. Lo primero es decidir si el programa hará una o varias pasadas. Con una unica pasada, *SIEMPRE* obtendremos una imagen en blanco y negro (que podemos colorear después.)
+
+1. Una única pasada.
+
+- Corte de luminosidad: Junta todos los píxeles más oscuros que umbral.
+- Detección de bordes: Revisa el contraste entre píxeles.
+- Cuantización de colores: Agrupa zonas similares. 
