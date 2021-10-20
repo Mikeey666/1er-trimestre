@@ -5,7 +5,7 @@ Las imagenes se guardan directamente de dos maneras
 
 - Por un lado (Ráster) podemos hacer una matriz de puntos (mapa de bits) y a cada punto le asignamos un color (píxel)
 
-# PROPIEDADES DE UNA IMAGEN RÁSTER
+# Propiedades de una imagen Ráster
 Resolución: Un mapa de bits que tiene un tamaño concreto de AxB. La resolución se puede expresar de diferentes formas:
 
 -> Número total de píxeles, normalmente MP (mega píxeles). Esto es el número que resulta de AxB en millones de píxeles.
@@ -17,7 +17,7 @@ Las líneas horizontales suelen ser 240p, 480p, 320p, 1080p, 2k y 4k.
 
 *NO confundir* con la resolución de impresión medida en puntos de pulgada (ppp) o (dpi) dots per inch.
 
-# ESPACIOS DE COLOR
+# Espacios de color
 
 Sistemas para detallar los colores:
 
@@ -51,18 +51,18 @@ Sistemas para detallar los colores:
 
 Se define como un conjunto de formas (lineas, puntos, etc). Cada una de estas formas está definida mátematicamente
 
-· **Formatos:
+· **Formatos:**
 
 - SVG (Scalable Vector Graphic)
 
 - EPS
 
-· **Especificos:
+· **Especificos:**
 
 - DWG 
 
 - DXF
 
-· **Formato mezcla: 
+· **Formato mezcla:**
 
 - PDF (Portable Document Format)
