@@ -31,7 +31,7 @@ Sistemas para detallar los colores:
 
 **FORMATOS COMUNES**
 
-- JPG : Tiene 
+- JPG : Tiene compresión
 
 ![a](https://64.media.tumblr.com/dbde3730e54312dcaf69b729eb8a652c/73f0b73e8e06bdc7-0d/s2048x3072/4929d82d07d7f68de207e4383f41824d587e1481.jpg)
 
