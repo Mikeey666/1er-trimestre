@@ -66,3 +66,10 @@ Se define como un conjunto de formas (lineas, puntos, etc). Cada una de estas fo
 · **Formato mezcla:**
 
 - PDF (Portable Document Format)
+
+```Imagen ráster -------(Vectorizar)-------> Imagen vectorial```
+```Imagen vectorial -------(Rasterizar)-------> Imagen ráster```
+
+Rasterizamos una imagen, cuando pasamos de una imagen vectorial a una imagen raster (mapa de bits).
+
+Vectorizar es pasar de un mapa de bits (imagen ráster) a formato vectorial.
