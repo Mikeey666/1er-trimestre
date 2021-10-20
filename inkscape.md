@@ -114,3 +114,5 @@ Después de importar el león, vamos a ajustar el lienzo. Para ello vamos a prop
 - Borramos el ráster
 - Guardamos como león1.svg
 - Subimos al github
+
+![leon](https://raw.githubusercontent.com/Mikeey666/1er-trimestre/f3913d60d18c1f406b84ae00ab75e093953859aa/leon1.svg)
