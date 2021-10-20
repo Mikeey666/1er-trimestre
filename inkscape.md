@@ -84,3 +84,7 @@ Vamos a tomar la imagen del cuadro del león de Rosa Bonheur. Esta es la imagen 
 - Archivo --> Importar
 - Arrastrar la imagen
 - Copiar y pegar
+5. Click derecho en la imagen 
+6. Vectorizar mapa de bits
+
+![khjk]()
