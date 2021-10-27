@@ -173,3 +173,9 @@ Después de importar el león, vamos a ajustar el lienzo. Para ello vamos a prop
 ![](https://raw.githubusercontent.com/Mikeey666/1er-trimestre/e5338e2d7dc43da62246fc59428c44e4ef7bd8c2/leoncolores2.svg)
 
 ![](https://raw.githubusercontent.com/Mikeey666/1er-trimestre/31c6b90f269a01631cac2e1a5a420f29bdedeadb/leoncolores3.svg)
+
+**LOGOS**
+
+Mitsubishi:
+
+![](https://raw.githubusercontent.com/Mikeey666/1er-trimestre/8755e0b1a1a93e0526f5c9803aa4f6cf899e1ec9/MITSUBISHI.svg)
