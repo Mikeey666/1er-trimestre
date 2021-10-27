@@ -33,6 +33,10 @@ Las líneas horizontales suelen ser 240p, 480p, 320p, 1080p, 2k y 4k.
 - UN canal de luminosidad del color (Light)
 - Un canal de transparencia (Alfa)
 
+*CMYK:*
+
+Este sistema mezcla los tres colores primarios substractivos (cyan, magenta, amarillo) y un canal de negro.
+
 Este sistema mezla lo siguiente:
 
 **FORMATOS COMUNES**
