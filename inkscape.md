@@ -179,3 +179,7 @@ Después de importar el león, vamos a ajustar el lienzo. Para ello vamos a prop
 Mitsubishi:
 
 ![](https://raw.githubusercontent.com/Mikeey666/1er-trimestre/8755e0b1a1a93e0526f5c9803aa4f6cf899e1ec9/MITSUBISHI.svg)
+
+Metro:
+
+![](https://raw.githubusercontent.com/Mikeey666/1er-trimestre/35f135beab707b7ea4ab1f1e2badf35bb067fcf9/UNDERGROUND.svg)
