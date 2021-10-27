@@ -19,12 +19,20 @@ Las líneas horizontales suelen ser 240p, 480p, 320p, 1080p, 2k y 4k.
 
 # Espacios de color
 
-Sistemas para detallar los colores:
+*Sistemas para detallar los colores:*
 
 - RGB (Red - Green - Blue) para pantallas.
 - CMYK (Cyan - Magenta - Yellow - BLack) para imprimir.
 - Colores indexados
 - Canal (como los 3 canales de RGB) de transparencia. Este canal se llama canal alfa. Los PNG pueden tenerlo. Los GIF y los JPG no.
+
+*HSL (Hue, Saturation, Light):*
+
+- Un tono de color en la rueda cromática (Hue)
+- Un canal de nivel de saturacion cromática que va del gris al color (Saturation)
+- UN canal de luminosidad del color (Light)
+
+Este sistema mezla lo siguiente:
 
 **FORMATOS COMUNES**
 
