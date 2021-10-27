@@ -169,3 +169,5 @@ Después de importar el león, vamos a ajustar el lienzo. Para ello vamos a prop
 **León coloreado**
 
 ![](https://raw.githubusercontent.com/Mikeey666/1er-trimestre/14935dce6d0b2532a2a4fb378ace9a3f40556165/leoncolores.svg)
+
+![]()
