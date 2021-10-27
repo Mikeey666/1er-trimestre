@@ -22,7 +22,7 @@ Las líneas horizontales suelen ser 240p, 480p, 320p, 1080p, 2k y 4k.
 *Sistemas para detallar los colores:*
 
 - RGB (Red - Green - Blue) para pantallas.
-- CMYK (Cyan - Magenta - Yellow - BLack) para imprimir.
+- CMYK (Cyan - Magenta - Yellow - Black) para imprimir.
 - Colores indexados
 - Canal (como los 3 canales de RGB) de transparencia. Este canal se llama canal alfa. Los PNG pueden tenerlo. Los GIF y los JPG no.
 
