@@ -150,3 +150,5 @@ Después de importar el león, vamos a ajustar el lienzo. Para ello vamos a prop
 **León 05**
 
 1500 x ______
+
+![](https://github.com/Mikeey666/1er-trimestre/blob/main/LEON05.png?raw=true)
