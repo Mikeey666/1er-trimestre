@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg888"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="MITSUBISHI.svg">
+  <defs
+     id="defs882" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2139473"
+     inkscape:cx="461.16099"
+     inkscape:cy="632.63364"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata885">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:3.17500034, 3.17500034;stroke-dashoffset:0;stroke-opacity:1"
+       id="path9124"
+       sodipodi:sides="4"
+       sodipodi:cx="103.56547"
+       sodipodi:cy="114.81548"
+       sodipodi:r1="47.638496"
+       sodipodi:r2="33.685505"
+       sodipodi:arg1="1.5469913"
+       sodipodi:arg2="2.3323895"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 104.6994,162.44048 55.940469,115.94941 102.43154,67.190484 151.19047,113.68155 Z"
+       transform="matrix(0.58414319,0,0,1.0484822,40.824263,-15.350497)" />
+    <path
+       transform="matrix(0.16966142,0.4468755,-0.8562965,0.42135511,142.14,80.880255)"
+       d="M 104.6994,162.44048 55.940469,115.94941 102.43154,67.190484 151.19047,113.68155 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="2.3323895"
+       sodipodi:arg1="1.5469913"
+       sodipodi:r2="33.685505"
+       sodipodi:r1="47.638496"
+       sodipodi:cy="114.81548"
+       sodipodi:cx="103.56547"
+       sodipodi:sides="4"
+       id="path9162"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:3.17500034, 3.17500034;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="star"
+       inkscape:transform-center-x="9.3794705"
+       inkscape:transform-center-y="-0.12154094" />
+    <path
+       inkscape:transform-center-y="25.422062"
+       inkscape:transform-center-x="-19.101423"
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:3.17500034, 3.17500034;stroke-dashoffset:0;stroke-opacity:1"
+       id="path9164"
+       sodipodi:sides="4"
+       sodipodi:cx="103.56547"
+       sodipodi:cy="114.81548"
+       sodipodi:r1="47.638496"
+       sodipodi:r2="33.685505"
+       sodipodi:arg1="1.5469913"
+       sodipodi:arg2="2.3323895"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 104.6994,162.44048 55.940469,115.94941 102.43154,67.190484 151.19047,113.68155 Z"
+       transform="matrix(0.20156184,-0.41648611,0.8982485,0.44474915,20.983661,167.74386)" />
+  </g>
+</svg>
