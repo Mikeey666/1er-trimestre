@@ -171,3 +171,5 @@ Después de importar el león, vamos a ajustar el lienzo. Para ello vamos a prop
 ![](https://raw.githubusercontent.com/Mikeey666/1er-trimestre/14935dce6d0b2532a2a4fb378ace9a3f40556165/leoncolores.svg)
 
 ![](https://raw.githubusercontent.com/Mikeey666/1er-trimestre/e5338e2d7dc43da62246fc59428c44e4ef7bd8c2/leoncolores2.svg)
+
+![](https://raw.githubusercontent.com/Mikeey666/1er-trimestre/31c6b90f269a01631cac2e1a5a420f29bdedeadb/leoncolores3.svg)
