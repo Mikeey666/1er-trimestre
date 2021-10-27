@@ -31,6 +31,7 @@ Las líneas horizontales suelen ser 240p, 480p, 320p, 1080p, 2k y 4k.
 - Un tono de color en la rueda cromática (Hue)
 - Un canal de nivel de saturacion cromática que va del gris al color (Saturation)
 - UN canal de luminosidad del color (Light)
+- Un canal de transparencia (Alfa)
 
 Este sistema mezla lo siguiente:
 
