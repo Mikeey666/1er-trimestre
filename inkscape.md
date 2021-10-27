@@ -126,3 +126,5 @@ Después de importar el león, vamos a ajustar el lienzo. Para ello vamos a prop
 **León 01**
 
 16 x 20 px
+
+![.](https://github.com/Mikeey666/1er-trimestre/blob/main/LEON01.png?raw=true)
