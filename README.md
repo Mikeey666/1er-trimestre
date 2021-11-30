@@ -6,7 +6,7 @@ buenasss
 
 me llamo saray
 
-mi record en los sims es de +72 horas seguidas jugadas
+mi record en los sims es de +100 horas seguidas jugadas
 
 [mi perfil](https://github.com/mikeey666)
 
