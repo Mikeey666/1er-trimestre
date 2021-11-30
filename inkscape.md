@@ -176,7 +176,7 @@ Después de importar el león, vamos a ajustar el lienzo. Para ello vamos a prop
 
 **LOGOS**
 
-![enlace al pdf explicatorio](https://joaclintistgud.files.wordpress.com/2011/04/logo_a_logo_segunda_edicion.pdf)
+[enlace al pdf explicatorio](https://joaclintistgud.files.wordpress.com/2011/04/logo_a_logo_segunda_edicion.pdf)
 
 Mitsubishi:
 
