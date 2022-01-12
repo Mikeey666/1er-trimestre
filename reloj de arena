@@ -1,0 +1,2 @@
+En este trabajo vamos a utilizar la funcion *millis*, la cual lleva la cuenta de tiempo que nuestro arduino ha estado ejecutandose en milisegundos. 
+
